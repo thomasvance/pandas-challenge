@@ -1,0 +1,22 @@
+School Summary
+
+In this summary we will be looking at a wide range of data. We will see how many schools we are analyzing as well as the number of students, budgets, and grades. 
+
+We will be analyzing a total of 39,170 lines with a total of 15 schools, 7 districts and 8 charters. In the data you will see that the overall grades is higher on average for charter schools compared to district schools. The budget per student doesn't seem to vary drastically. with the highest number being $655.00 and the lowest being $578.00.
+
+Highest-Performing Schools (by % Overall Passing)
+
+The Cabrera High School is the highest performing school with an overall passing of 91.33%. It is a charter school with a Per Student budget of $582.00.
+Followed by Thomas High School with an overall passing of 90.94% and a Per Student Budget of $638.00.
+
+
+Bottom Performing Schools (By % Overall Passing)
+
+Rodriguez High School is the lowest performing school with an overall passing of 52.98%
+Followed by Figueroa High School with an overall passing of 53.20%
+
+We can see that schools with a higher budget, did not yield better results. Schools with a higher spending per student actually seemed to underperformed compared to smaller schools with a smaller budget. 
+
+In conclusion, we can see that smaller schools and medium sized schools have drastically out-performed large sized schools on passing math performances (93% passing vs 67%)
+
+Charter schools as a whole have out performed public schools across all metrics. Considering that a charter school has to meets the same standards as public schools but they are given a lot more flexibility on curriculum as well, it seems that being flexible tends to help students perform better overall. 
